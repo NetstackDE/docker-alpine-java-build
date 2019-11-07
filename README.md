@@ -3,3 +3,9 @@
 
 # docker-alpine-java-build
 docker image for java builds
+
+# includes additional software 
+
+* OpenJDK11
+* [Gradle 5.6](https://gradle.org/)  
+* Bash Shell
