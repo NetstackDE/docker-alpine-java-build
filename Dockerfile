@@ -5,7 +5,8 @@ MAINTAINER Andreas Pfeiffer - Netstack <pfeiffer@netstack.de>
 RUN apk add gradle
 RUN apk add openjdk11
 
-#Install Bash 
+#Install Bash & git 
 RUN apk add bash 
+RUN apk add git
 
 CMD ["/bin/bash"]
