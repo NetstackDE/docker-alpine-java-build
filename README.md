@@ -9,4 +9,5 @@ docker image for java builds
 * OpenJDK11
 * [Gradle 5.6](https://gradle.org/)  
 * Bash Shell
-* GIT 2.22.0
+* GIT 
+* MAVEN
